@@ -8,7 +8,7 @@
 </p>
 
 
-Bianca Nutricionista é uma aplicação web construida seguindo as aulas da NLW Mission:origin foundation, evento organizado Pela Rocketseat.
+Bianca Nutricionista é uma aplicação web construida seguindo as aulas da NLW Mission:origin foundation dados pelo instrutor Mayk Brito, evento organizado Pela Rocketseat.
 
 A aplicação consiste em uma página pessoal de uma nutricionista.
 
@@ -22,9 +22,9 @@ https://gabscosta.github.io/bianca-nutricionista/
 
 ## Teconoligias Utilizadas
   <div>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
 
 
