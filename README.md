@@ -10,7 +10,7 @@
 
 Bianca Nutricionista é uma aplicação web construida seguindo as aulas da NLW Mission:origin foundation, evento organizado Pela Rocketseat.
 
-A aplicação consinte em uma página pessoal de uma nutricionista.
+A aplicação consiste em uma página pessoal de uma nutricionista.
 
 ## Layout da página
 https://gabscosta.github.io/bianca-nutricionista/
